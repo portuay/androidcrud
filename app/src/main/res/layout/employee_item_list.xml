@@ -5,7 +5,12 @@
     android:orientation="vertical"
     android:layout_height="match_parent">
 
-    <EditText
+    <TextView
+        android:id="@+id/1"
+        android:layout_margin="5dp"
+        android:textSize="18dp"
+        android:text="Id"
+        android:textStyle="bold"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
 
